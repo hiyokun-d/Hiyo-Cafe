@@ -31,6 +31,7 @@ body {
   background-attachment: fixed;
   margin: 0;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 .cat-fonts {
