@@ -21,7 +21,6 @@ html {
 
 * {
   box-sizing: border-box;
-  transition: .7s cubic-bezier(.29, -0.67, .21, 1.21);
 }
 
 body {
