@@ -1,0 +1,31 @@
+.landing-page {
+  text-align: center;
+  max-width: 600px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.landing-page p {
+  color: white;
+}
+
+.landing-page .subtitle {
+  font-size: 13px;
+  width: 500px;
+  color: gray;
+}
+
+.landing-page .subtitle:hover {
+  color: white;
+  text-anchor: middle;
+  transform: scale(1.05);
+}
+
+.landing-page a {
+  width: 250px;
+  transform: scale(0.7);
+  margin-top: -15px;
+}
